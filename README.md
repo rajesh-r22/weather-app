@@ -24,4 +24,3 @@ A simple and responsive weather app built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
- 
