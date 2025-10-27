@@ -32,7 +32,7 @@ const getDateTime = (dt) => {
   return new Intl.DateTimeFormat("en-US", options).format(curDate);
 };
 
-let city = "Pune";
+let city = "Bidar";
 
 // ===> Search functionality<===
 citySearch.addEventListener("submit", (e) => {
