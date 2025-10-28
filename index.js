@@ -70,7 +70,7 @@ const getWeatherData = async () => {
     w_pressure.innerHTML = `${main.pressure} hPa`;
   } catch (error) {
     console.error(error);
-    cityName.innerHTML = "City not found";
+    cityName.innerHTML = "City not found, try again";
   }
 };
 
